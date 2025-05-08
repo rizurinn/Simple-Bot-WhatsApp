@@ -34,7 +34,6 @@
     "filesize": "^10.0.7",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "^0.0.1-security",
-    "google-translate-api-x": "^10.7.2",
     "https": "^1.0.0",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.2",
