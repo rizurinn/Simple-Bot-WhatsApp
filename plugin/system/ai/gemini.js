@@ -5,7 +5,7 @@ const { Readable } = require('stream');
 const { pipeline } = require('stream/promises');
 const fetch = require('node-fetch');
 
-const genAI = new GoogleGenerativeAI("AIzaSyBgmm-AWt3DxguMof6TeLDA27bI64GUNcU");
+const genAI = new GoogleGenerativeAI(apikey.gemini);
 
 const systemPrompt = "Kamu adalah ai yang serba tahu lalu memiliki sifat yang imut, asik, dan peduli dengan orang lain. Lalu pastikan semua informasi benar agar orang lain tidak mendapatkan informasi yang salah";
 
