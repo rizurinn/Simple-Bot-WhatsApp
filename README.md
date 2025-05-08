@@ -4,7 +4,7 @@
 
 ## How to Get Started
 
-Ikuti langkah-langkah berikut untuk mengatur dan menjalankan `ckptw-wabot`:
+Ikuti langkah-langkah berikut untuk mengatur dan menjalankan script ini:
 
 ### 1. Cloning Repository
 
@@ -44,21 +44,13 @@ Bot akan berjalan hingga Anda menutup terminal atau menghentikannya secara manua
 
 ## WhatsApp Authentication
 
-Ada dua metode autentikasi yang dapat digunakan untuk menghubungkan bot ke akun WhatsApp Anda:
+Berikut metode autentikasi yang dapat digunakan untuk menghubungkan bot ke akun WhatsApp Anda:
 
-### 1. Using Pairing Code
+### Using Pairing Code
 
 - Setelah bot dijalankan, kode pairing akan ditampilkan di terminal.
 - Buka aplikasi WhatsApp di ponsel, pilih menu **Perangkat Tertaut**, lalu ketuk **Tautkan Perangkat**.
 - Masukkan kode pairing yang ditampilkan di terminal untuk menautkan akun WhatsApp dengan bot.
-
-### 2. Using QR Code
-
-- Setelah bot dijalankan, kode QR akan muncul di terminal.
-- Buka aplikasi WhatsApp di ponsel, pilih menu **Perangkat Tertaut**, lalu ketuk **Tautkan Perangkat**.
-- Pindai kode QR yang muncul di terminal untuk menautkan akun WhatsApp dengan bot.
-
-Setelah proses autentikasi berhasil, bot siap untuk menerima dan merespons pesan sesuai dengan perintah yang diberikan.
 
 
 ## Contribution
